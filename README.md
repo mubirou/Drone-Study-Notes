@@ -9,7 +9,7 @@
     * [Meta Quest 3](https://www.meta.com/jp/quest/quest-3/)
     * Windows PC ([推奨スペック](https://www.meta.com/ja-jp/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/))
 
-1. 送信機の設定
+1. 送信機 ([T16IZ Super](https://www.rc.futaba.co.jp/products/detail/I00000332))の設定
     1. [取扱説明書](https://www.rc.futaba.co.jp/downloads/W8C1674N2302020928toqx6.pdf?mode=view)のダウンロード
 
 © 2024 夢寐郎  
