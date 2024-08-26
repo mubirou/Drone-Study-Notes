@@ -5,7 +5,7 @@
 
 * 用意するもの
     * [REAL FLIGHT EVOLUTION+WSC-1付](https://www.rc.futaba.co.jp/products/detail/I00000336)
-    * 送信機 ([Futaba T16IZ Super ヘリ用 送信機のみ](https://www.rc.futaba.co.jp/products/detail/I00000332))
+    * 空用送信機 ([Futaba T16IZ Super ヘリ用 送信機のみ](https://www.rc.futaba.co.jp/products/detail/I00000332))
     * [Meta Quest 3](https://www.meta.com/jp/quest/quest-3/)
     * Windows PC ([推奨スペック](https://www.meta.com/ja-jp/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/))
 
@@ -15,5 +15,6 @@
         * [リンケージメニュー]-[モデルタイプ]-[マルチコプター]
     1. 「[モード2](https://ds-chiba.jp/2023/06/08/04/)」に変更
         * [システムメニュー]-[ハードウェア設定]-[スティックモード]-[モード2]
+    1. 「[S-FHSS]
 
 © 2024 夢寐郎  
