@@ -12,5 +12,6 @@
 1. 送信機 ([T16IZ Super](https://www.rc.futaba.co.jp/products/detail/I00000332))の設定
     1. [取扱説明書](https://www.rc.futaba.co.jp/downloads/W8C1674N2302020928toqx6.pdf?mode=view)のダウンロード
     1. 「[マルチコプター](https://drone-navigator.com/multicopter)」に変更
+        * [リンケージメニュー]-[モデルタイプ]-[マルチコプター]
 
 © 2024 夢寐郎  
