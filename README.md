@@ -31,5 +31,7 @@
 
 1. [REAL FLIGHT EVOLUTION](https://www.rc.futaba.co.jp/products/detail/I00000336) のインストール
     1. [STEAM](https://store.steampowered.com/about/) をインストール（登録アカウントが必要）
+    1. STEAM を起動
+    1. [ゲーム]-[Steamウォレットコードを有効化する] で製品コード（XXXXX-XXXXX-XXXXX）を入力
 
 © 2024 夢寐郎  
