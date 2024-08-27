@@ -21,11 +21,13 @@
         * [リンケージメニュー]-[システムタイプ]-[S-FHSS]
     1. 上記の設定の保存
         * [モデルセレクト]-[新規]（任意で [名称変更] をします）
+    1. 動作確認
+        * [リンケージメニュー]-[サーボモニター]
 
 1. 送信機（[T16IZ Super](https://www.rc.futaba.co.jp/products/detail/I00000332)）と PC をワイヤレス接続
     1. 付属の [WSC-1](https://www.rc.futaba.co.jp/products/detail/I00000274) をPCのUSBポートに接続
     1. 送信機の電源を入れてパソコンに近付ける（20cm以内）
-    1. XXX
+    1. [WSC-1](https://www.rc.futaba.co.jp/products/detail/I00000274) と PC を「[リンク操作](https://www.rc.futaba.co.jp/downloads/shop/WCI00000274N210726142330epq.pdf?mode=view)」する（緑点灯でリンク操作成功）
 
 1. [REAL FLIGHT EVOLUTION](https://www.rc.futaba.co.jp/products/detail/I00000336) のインストール
 
