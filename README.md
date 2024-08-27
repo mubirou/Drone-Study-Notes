@@ -4,7 +4,7 @@
 ## REAL FLIGHT
 
 * 用意するもの
-    * [REAL FLIGHT EVOLUTION+WSC-1付](https://www.rc.futaba.co.jp/products/detail/I00000336)
+    * [REAL FLIGHT EVOLUTION + WSC-1付](https://www.rc.futaba.co.jp/products/detail/I00000336)
     * 空用送信機 ([Futaba T16IZ Super ヘリ用 送信機のみ](https://www.rc.futaba.co.jp/products/detail/I00000332))
     * Windows PC ([推奨スペック](https://www.meta.com/ja-jp/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/))
     * [Meta Quest 3](https://www.meta.com/jp/quest/quest-3/)
@@ -21,5 +21,8 @@
         * [リンケージメニュー]-[システムタイプ]-[S-FHSS]
     1. 上記の設定の保存
         * [モデルセレクト]-[新規]（任意で [名称変更] をします）
+
+1. [REAL FLIGHT EVOLUTION](https://www.rc.futaba.co.jp/products/detail/I00000336) のインストール
+    1. XXX
 
 © 2024 夢寐郎  
