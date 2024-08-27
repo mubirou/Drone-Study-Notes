@@ -5,7 +5,7 @@
 
 * 用意するもの
     * [REAL FLIGHT EVOLUTION+WSC-1付](https://www.rc.futaba.co.jp/products/detail/I00000336)…29,480yen
-    * 空用送信機 ([Futaba T16IZ Super ヘリ用 送信機のみ](https://www.rc.futaba.co.jp/products/detail/I00000332))
+    * 空用送信機 ([Futaba T16IZ Super ヘリ用 送信機のみ](https://www.rc.futaba.co.jp/products/detail/I00000332))…65,334yen
     * [Meta Quest 3](https://www.meta.com/jp/quest/quest-3/)
     * Windows PC ([推奨スペック](https://www.meta.com/ja-jp/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/))
 
