@@ -1,7 +1,7 @@
 # Drone-Study-Notes
 ドローン（回転翼航空機･マルチローター）関連の勉強･研究メモ
 
-## REAL FLIGHT（準備編）
+## REAL FLIGHT
 
 * 用意するもの
     * [REAL FLIGHT EVOLUTION + WSC-1付](https://www.rc.futaba.co.jp/products/detail/I00000336)
@@ -35,8 +35,7 @@
     1. [ゲーム]-[Steamウォレットコードを有効化する] で製品コードを入力
     1. [ライブラリ]-[RealFlight Evolution]-[インストール]
 
-## REAL FLIGHT（活用編）
-
-* XXX
+1. 活用方法
+    * XXXXX
 
 © 2024 夢寐郎  
