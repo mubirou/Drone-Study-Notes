@@ -22,7 +22,7 @@
     1. 上記の設定の保存
         * [モデルセレクト]-[新規]（任意で [名称変更] をします）
 
-1. 送信機（[T16IZ Super](https://www.rc.futaba.co.jp/products/detail/I00000332)）とパソコンのワイヤレス接続
+1. 送信機（[T16IZ Super](https://www.rc.futaba.co.jp/products/detail/I00000332)）と PC をワイヤレス接続
     1. 付属の [WSC-1](https://www.rc.futaba.co.jp/products/detail/I00000274) をPCのUSBポートに接続
     1. 送信機の電源を入れてパソコンに近付ける（20cm以内）
     1. XXX
