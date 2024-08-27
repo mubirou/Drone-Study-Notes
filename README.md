@@ -36,6 +36,13 @@
     1. [ライブラリ]-[RealFlight Evolution]-[インストール]
 
 1. 活用方法
-    * XXXXX
+    * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
+    * [Esc]-[Help]-[Websites]-[Swap PAges]-[Categories]-[RealFlight Evolution]-[[Airports](https://forums.realflight.com/index.php?resources/categories/airports.184/&page=2)]
+        * uav_license_test_line_2nd_AP
+        * uav_license_test_eitght_2nd_AP
+        * uav_license_test_square_2nd_AP
+    * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
+
+    * [リンケージメニュー]-[トレーナー]-[動作] を [INH] → [ACT] に変更 👈たぶん不要
 
 © 2024 夢寐郎  
