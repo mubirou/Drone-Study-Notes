@@ -19,5 +19,7 @@
         * "[**フルスプリング**](https://www.rc.futaba.co.jp/support/faq/?cat=98)"仕様に変更（取説30頁）
     1. 「[**S-FHSS**](https://www.rc.futaba.co.jp/support/tips/detail/31)」に変更（取説81-82頁）
         * [リンケージメニュー]-[システムタイプ]-[S-FHSS]
+    1. 設定の保存
+        * [モデルセレクト]-[新規]（任意で[名称変更]）
 
 © 2024 夢寐郎  
