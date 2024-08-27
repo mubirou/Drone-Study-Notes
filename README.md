@@ -24,7 +24,8 @@
 
 1. 送信機（[T16IZ Super](https://www.rc.futaba.co.jp/products/detail/I00000332)）とパソコンのワイヤレス接続
     1. 付属の [WSC-1](https://www.rc.futaba.co.jp/products/detail/I00000274) をPCのUSBポートに接続
-    1. 
+    1. 送信機の電源を入れてパソコンに近付ける（20cm以内）
+    1. XXX
 
 1. [REAL FLIGHT EVOLUTION](https://www.rc.futaba.co.jp/products/detail/I00000336) のインストール
 
