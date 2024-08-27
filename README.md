@@ -30,5 +30,6 @@
     1. [WSC-1](https://www.rc.futaba.co.jp/products/detail/I00000274) と PC を「[リンク操作](https://www.rc.futaba.co.jp/downloads/shop/WCI00000274N210726142330epq.pdf?mode=view)」する（緑点灯でリンク操作成功）
 
 1. [REAL FLIGHT EVOLUTION](https://www.rc.futaba.co.jp/products/detail/I00000336) のインストール
+    1. [STEAM](https://store.steampowered.com/about/) をインストール
 
 © 2024 夢寐郎  
