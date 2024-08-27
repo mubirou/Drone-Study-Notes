@@ -14,10 +14,9 @@
     1. [取扱説明書](https://www.rc.futaba.co.jp/downloads/W8C1674N2302020928toqx6.pdf?mode=view)のダウンロード
     1. 「[マルチコプター](https://drone-navigator.com/multicopter)」に変更（取説73-74頁）
         * [リンケージメニュー]-[モデルタイプ]-[マルチコプター]
-    1. 「[モード2](https://ds-chiba.jp/2023/06/08/04/)」に"ソフトウェア的"な変更
+    1. 「[モード2](https://ds-chiba.jp/2023/06/08/04/)」に変更
         * [システムメニュー]-[ハードウェア設定]-[スティックモード]-[モード2]（取説30頁）
-    1. 「[モード2](https://ds-chiba.jp/2023/06/08/04/)」に"物理的"な変更
-        * 「[フルスプリング](https://www.rc.futaba.co.jp/support/faq/?cat=98)」仕様に変更（取説30頁）
+    1. 「[フルスプリング](https://www.rc.futaba.co.jp/support/faq/?cat=98)」仕様に変更（取説30頁）
     1. 「[S-FHSS](https://www.rc.futaba.co.jp/support/tips/detail/31)」に変更（取説81-82頁）
         * [リンケージメニュー]-[システムタイプ]-[S-FHSS]
     1. 上記の設定の保存
