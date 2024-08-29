@@ -37,7 +37,7 @@
 
 1. 実行
     1. STEAM を起動
-    1. [ライブラリ]-[RealFlight Evolution]-[プレイ]
+    1. [ライブラリ]-[RealFlight Evolution]-[プレイ]-[FLY]
         * [RealFlght Evolutionをプレイ]：平面上で実行
         * [Oculus VRモードでRealFlight Evolutionを起動]：360°VR空間で実行
 
@@ -45,6 +45,9 @@
 * 機種：[Select an Aircraft]
     * [Hubsan ハブサン X4 Pro](https://hitecrcd.co.jp/products/x4pro/) (Prop Guards)
     * Quadcopter X
+
+* 太陽の角度（90°で真上）  
+    [Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]
 
 1. 活用方法
     * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
