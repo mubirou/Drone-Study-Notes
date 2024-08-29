@@ -43,7 +43,7 @@
 
 
 * 機種：[Select an Aircraft]
-    * Hubsan ハブサン X4 Pro (Prop Guards)
+    * [Hubsan ハブサン X4 Pro](https://hitecrcd.co.jp/products/x4pro/) (Prop Guards)
     * Quadcopter X
 
 1. 活用方法
