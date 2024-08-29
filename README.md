@@ -43,7 +43,7 @@
 
 
 1. 各種設定
-    * 画面上にプロポを表示：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
+    * 画面上のプロポ表示：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
     * プロポのスティック操作：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit] と [Calibrate]
         * Channel 1 - Aileron（エルロン）：[右]-[↔]
         * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
