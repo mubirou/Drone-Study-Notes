@@ -42,8 +42,9 @@
         * [Oculus VRモードでRealFlight Evolutionを起動]：360°VR空間で実行
 
 
-* ドローン機種：[Select an Aircraft]-[Quadcopter X]
-* 太陽の角度：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
+1. 各種設定
+    * ドローン機種：[Select an Aircraft]-[Quadcopter X]
+    * 太陽の角度：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
 
 1. 活用方法
     * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
