@@ -35,12 +35,25 @@
     1. [ゲーム]-[Steamウォレットコードを有効化する] で製品コードを入力
     1. [ライブラリ]-[RealFlight Evolution]-[インストール]
 
+1. 実行
+    1. STEAM を起動
+    1. [ライブラリ]-[RealFlight Evolution]-[プレイ]
+        * [RealFlght Evolutionをプレイ]：平面上で実行
+        * [Oculus VRモードでRealFlight Evolutionを起動]：360°VR空間で実行
+
 1. 活用方法
     * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
-    * [Esc]-[Help]-[Websites]-[Swap PAges]-[Categories]-[RealFlight Evolution]-[[Airports](https://forums.realflight.com/index.php?resources/categories/airports.184/&page=2)]
-        * uav_license_test_line_2nd_AP
-        * uav_license_test_eitght_2nd_AP
-        * uav_license_test_square_2nd_AP
+
+    * 国家試験飛行経路 
+        1. [Esc]-[Help]-[Websites]-[Swap PAges]-[Categories]-[RealFlight Evolution]-[[Airports](https://forums.realflight.com/index.php?resources/categories/airports.184/&page=2)]
+            * uav_license_test_line_2nd_AP
+            * uav_license_test_eitght_2nd_AP
+            * uav_license_test_square_2nd_AP
+        1. [Esc]-[My RealFlight]-[Import]-[RealFlight Archive] から上記3つを選択
+        1. [Esc]-[Free Play]-[Airport] から上記のいずれかを選択
+        1. [Esc]-[Free Play]-[Fly]
+
+
     * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
 
     * [リンケージメニュー]-[トレーナー]-[動作] を [INH] → [ACT] に変更 👈たぶん不要
