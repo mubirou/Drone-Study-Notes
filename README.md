@@ -41,6 +41,11 @@
         * [RealFlght Evolutionをプレイ]：平面上で実行
         * [Oculus VRモードでRealFlight Evolutionを起動]：360°VR空間で実行
 
+
+* 機種：[Select an Aircraft]
+    * Hubsan ハブサン X4 Pro (Prop Guards)
+    * Quadcopter X
+
 1. 活用方法
     * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
 
