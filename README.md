@@ -38,8 +38,8 @@
 1. 実行
     1. STEAM を起動
     1. [ライブラリ]-[RealFlight Evolution]-[プレイ]-[FLY]
-        * [RealFlght Evolutionをプレイ]：各種設定時
-        * [Oculus VRモードでRealFlight Evolutionを起動]：実際に360°VR空間で飛行
+        * [RealFlght Evolutionをプレイ]：平面ディスプレイで実行（各種設定時）
+        * [Oculus VRモードでRealFlight Evolutionを起動]：360°VR空間で実行
 
 
 1. 各種設定
