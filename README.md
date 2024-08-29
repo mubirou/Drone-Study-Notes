@@ -43,6 +43,9 @@
 
 
 1. 各種設定
+    * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
+        * Aileron（エルロン）：[右]-[↔]
+        * Elevator（エレベーター）：[右]-[↕]
     * ドローン機種：[Select an Aircraft]-[Quadcopter X]
     * 太陽の角度：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
     * 空港（国家試験飛行経路）：
@@ -54,8 +57,7 @@
         1. [Esc]-[Free Play]-[Airport] から上記のいずれかを [Select]
 
 1. 活用方法
-    * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
-
+    
 
     * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
 
