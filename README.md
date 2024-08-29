@@ -38,11 +38,12 @@
 1. 実行
     1. STEAM を起動
     1. [ライブラリ]-[RealFlight Evolution]-[プレイ]-[FLY]
-        * [RealFlght Evolutionをプレイ]：平面上で実行
-        * [Oculus VRモードでRealFlight Evolutionを起動]：360°VR空間で実行
+        * [RealFlght Evolutionをプレイ]：各種設定時
+        * [Oculus VRモードでRealFlight Evolutionを起動]：実際に360°VR空間で飛行
 
 
 1. 各種設定
+    * 画面上にプロポを表示：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
     * プロポのスティック操作：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit] と [Calibrate]
         * Channel 1 - Aileron（エルロン）：[右]-[↔]
         * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
