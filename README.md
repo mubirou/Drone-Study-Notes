@@ -43,10 +43,12 @@
 
 
 1. 各種設定
-    * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
-        * Aileron（エルロン）：[右]-[↔]
-        * Elevator（エレベーター）：[右]-[↕]
-    * ドローン機種：[Select an Aircraft]-[Quadcopter X]
+    * プロポのスティック操作：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
+        * Channel 1 - Aileron（エルロン）：[右]-[↔]
+        * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
+        * Channel 3 - Throttle（スロットル）：[左]-[↕]
+        * Channel 4 - Rudder（ラダー）：[左]-[↔]
+    * ドローン機体：[Select an Aircraft]-[Quadcopter X]
     * 太陽の角度：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
     * 空港（国家試験飛行経路）：
         1. [Esc]-[Help]-[Websites]-[Swap PAges]-[Categories]-[RealFlight Evolution]-[[Airports](https://forums.realflight.com/index.php?resources/categories/airports.184/&page=2)]
