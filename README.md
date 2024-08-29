@@ -46,8 +46,8 @@
     * [Hubsan ハブサン X4 Pro](https://hitecrcd.co.jp/products/x4pro/) (Prop Guards)
     * Quadcopter X
 
-* 太陽の角度（90°で真上）  
-    [Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]
+* 太陽の角度
+    [Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
 
 1. 活用方法
     * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
