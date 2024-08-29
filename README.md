@@ -45,18 +45,16 @@
 1. 各種設定
     * ドローン機種：[Select an Aircraft]-[Quadcopter X]
     * 太陽の角度：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
-
-1. 活用方法
-    * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
-
-    * 国家試験飛行経路 
+    * 空港（国家試験飛行経路）：
         1. [Esc]-[Help]-[Websites]-[Swap PAges]-[Categories]-[RealFlight Evolution]-[[Airports](https://forums.realflight.com/index.php?resources/categories/airports.184/&page=2)]
             * uav_license_test_line_2nd_AP
             * uav_license_test_eitght_2nd_AP
             * uav_license_test_square_2nd_AP
         1. [Esc]-[My RealFlight]-[Import]-[RealFlight Archive] から上記3つを選択
-        1. [Esc]-[Free Play]-[Airport] から上記のいずれかを選択
-        1. [Esc]-[Free Play]-[Fly]
+        1. [Esc]-[Free Play]-[Airport] から上記のいずれかを [Select]
+
+1. 活用方法
+    * [Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
 
 
     * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
