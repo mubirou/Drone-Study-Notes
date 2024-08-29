@@ -43,7 +43,7 @@
 
 
 1. 各種設定
-    * プロポのスティック操作：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
+    * プロポのスティック操作：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit] and [Calibrate]
         * Channel 1 - Aileron（エルロン）：[右]-[↔]
         * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
         * Channel 3 - Throttle（スロットル）：[左]-[↕]
