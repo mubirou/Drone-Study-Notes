@@ -44,11 +44,12 @@
 
 1. 各種設定
     * 画面上のプロポ表示：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
-    * プロポのスティック設定：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit] と [Calibrate]
+    * プロポのスティック設定：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
         * Channel 1 - Aileron（エルロン）：[右]-[↔]
         * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
         * Channel 3 - Throttle（スロットル）：[左]-[↕]
         * Channel 4 - Rudder（ラダー）：[左]-[↔]
+    * 同キャリブレーション：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Calibrate]
     * ドローン機体：[Select an Aircraft]-[Quadcopter X]
     * 太陽の角度：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
     * 空港（国家試験飛行経路）：
