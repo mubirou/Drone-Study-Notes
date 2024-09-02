@@ -43,7 +43,7 @@
 
 
 1. 各種設定
-    * 画面上のプロポ表示：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
+    * **画面上のプロポ表示**：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
     * プロポのスティック設定：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
         * Channel 1 - Aileron（エルロン）：[右]-[↔]
         * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
@@ -70,7 +70,6 @@
 ### この項目は編集中です
 
 1. 活用方法
-    
 
     * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
 
