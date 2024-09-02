@@ -67,7 +67,7 @@
             1. 引き続き [MODE]-[コントロール]-[--]-[SA]
     * **風＆乱気流**
         1. 風速：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[0→8％]
-        1. 
+        1. 乱気流：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[100％]
 
 ### この項目は編集中です
 
