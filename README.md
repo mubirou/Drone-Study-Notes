@@ -66,15 +66,14 @@
             1. [リンケージメニュー]-[ファンクション]-[5 ジャイロ]-[2/2]-[MODE] で "ジャイロ"→"MODE"に変更
             1. 引き続き [MODE]-[コントロール]-[--]-[SA]
     * **風＆乱気流**
-        1. [Esc]-[Settings]-[Wind]-[Wind Gust]：0→8％
+        1. 風速：[Esc]-[Settings]-[Wind]-[[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]((#Wind Gust)]-[0→8％]
         1. 
-
+        
 ### この項目は編集中です
 
 1. 活用方法
 
     * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
-
     * [リンケージメニュー]-[トレーナー]-[動作] を [INH] → [ACT] に変更 👈たぶん不要
 
 © 2024 夢寐郎  
