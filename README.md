@@ -44,28 +44,28 @@
 
 1. 各種設定
     * **画面上のプロポ表示**：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
-    * プロポのスティック設定：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
+    * **プロポのスティック設定**：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
         * Channel 1 - Aileron（エルロン）：[右]-[↔]
         * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
         * Channel 3 - Throttle（スロットル）：[左]-[↕]
         * Channel 4 - Rudder（ラダー）：[左]-[↔]
-    * 同キャリブレーション：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Calibrate]
-    * ドローン機体：[Select an Aircraft]-[Quadcopter X]
-    * 太陽の角度：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
-    * 空港（国家試験飛行経路）：
+    * 同**キャリブレーション**：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Calibrate]
+    * **ドローン機体**：[Select an Aircraft]-[Quadcopter X]
+    * **太陽の角度**：[Esc]-[My RealFlight]-[Edit Current Airport]-[Properties]-[Sun Indnation (deg)]-[90]
+    * **空港**（国家試験飛行経路）：
         1. [Esc]-[Help]-[Websites]-[Swap PAges]-[Categories]-[RealFlight Evolution]-[[Airports](https://forums.realflight.com/index.php?resources/categories/airports.184/&page=2)]
             * uav_license_test_line_2nd_AP
             * uav_license_test_eitght_2nd_AP
             * uav_license_test_square_2nd_AP
         1. [Esc]-[My RealFlight]-[Import]-[RealFlight Archive] から上記3つを選択
         1. [Esc]-[Free Play]-[Airport] から上記のいずれかを [Select]
-    * ATTIモード
+    * **ATTIモード**
         * [Esc]-[Settings]-[User Interface]-[Gadgets]-[Flight Modes]-[Flight Modes Gadget Enabled]-[Enabled]-[ON]：フライトモードの表示
         * プロポ（T16IZS）の設定（[参考動画](https://www.youtube.com/watch?v=5zdZzGGeB9w)）
             1. [リンケージメニュー]-[ファンクションネーム]-[予備1]-[名称変更] で"予備1"→"MODE"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 ジャイロ]-[2/2]-[MODE] で "ジャイロ"→"MODE"に変更
             1. 引き続き [MODE]-[コントロール]-[--]-[SA]
-    * 乱気流：
+    * **風＆乱気流**：
 
 ### この項目は編集中です
 
