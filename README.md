@@ -43,6 +43,7 @@
 
 
 1. 各種設定
+    * **旧メニュー表示**：[shift]+[~]（Console表示）→ "showlegacymenu"と入力
     * **視点固定**：[Z]（Autozoom → Manual → Keep Ground in View）
     * **画面上のプロポ表示**：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
     * **NavGuides表示**：[Esc]-[Settings]-[User Interface]-[Gadgets]-[NavGuides]-[NavGudes Gadget Enabled]-[Enabled]-[⚙]
