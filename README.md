@@ -43,7 +43,12 @@
 
 
 1. 各種設定
+    * **視点固定**：[Z]（Autozoom → Manual → Keep Ground in View）
     * **画面上のプロポ表示**：[Esc]-[Settings]-[Controller]-[Configure Cotroller]
+    * **NavGuides表示**：[Esc]-[Settings]-[User Interface]-[Gadgets]-[NavGuides]-[NavGudes Gadget Enabled]-[Enabled]-[⚙]
+        * Altitude (AGL)：地面と機体との距離（5ft≒1.5m / 11ft≒3.4m）
+        * Graphics Frame Rate：現在の描画速度
+        * 単位をメートルに変更：[Esc]-[Settings]-[Physics]-[Quality]-[Use Metric Units]-[Enabled]
     * **プロポのスティック設定**：[Esc]-[Settings]-[Controller]-[Configure Controller]-[Profile]-[Futaba]-[Edit]
         * Channel 1 - Aileron（エルロン）：[右]-[↔]
         * Channel 2 - Elevator（エレベーター）：[右]-[↕]（Reverse）
@@ -71,6 +76,8 @@
         1. 不規則：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
         1. 風速の変化：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[0→5％]
         1. 風の角度：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130→270deg]（画面右手が風上）
+        1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0→4MPH]
+        1. 設定保存：[Esc]-[Free Play]-[Save Scenario]-["Save As Default Scenario"→"20240903T0159"]
 
 ### この項目は編集中です
 
@@ -78,5 +85,8 @@
 
     * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
     * [リンケージメニュー]-[トレーナー]-[動作] を [INH] → [ACT] に変更 👈たぶん不要
+
+
+    * [Esc]-[Free Play]-[Pilot View]-[Pilot Position]-["Runway Center"→"Helipad"]
 
 © 2024 夢寐郎  
