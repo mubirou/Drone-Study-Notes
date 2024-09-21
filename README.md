@@ -79,6 +79,9 @@
         1. 風の角度：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130→270deg]（画面右手が風上）
         1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0→4MPH]
         1. 設定保存：[Esc]-[Free Play]-[Save Scenario]-["Save As Default Scenario"→"20240903T0159"]
+    * **カメラ位置**
+        * FPVモード：F4
+        * 操縦者：F1
 
 ### この項目は編集中です
 
@@ -91,3 +94,4 @@
     * [Esc]-[Free Play]-[Pilot View]-[Pilot Position]-["Runway Center"→"Helipad"]
 
 © 2024 夢寐郎  
+    
