@@ -72,8 +72,8 @@
             1. [リンケージメニュー]-[ファンクション]-[5 ジャイロ]-[2/2]-[MODE] で "ジャイロ"→"MODE"に変更
             1. 引き続き [MODE]-[コントロール]-[--]-[SA]
     * **風＆乱気流**
-        1. 突風時の風速の増加割合：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[0→10％]
-        1. 乱気流：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[200％]
+        1. 突風時の風速の増加割合 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[0→30％]
+        1. 乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[200％]
         1. 不規則：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
         1. 風速の変化：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[0→5％]
         1. 風の角度：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130→270deg]（画面右手が風上）
