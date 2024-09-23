@@ -78,7 +78,7 @@
         1. 長期的な乱気流 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[100％]
         1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130deg] ("Home"or"End"キーで調整)
         1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0MPH] ("PgUp"or"PgOn"キーで調整)
-        1. 設定保存：[Esc]-[Free Play]-[Save Scenario]-["Save As Default Scenario"→"20240903T0159"]
+        1. 設定保存：[Esc]-[Free Play]-[Save Scenario]-["Save As Default Scenario"→任意]
     * **カメラ位置**
         * FPVモード：F4
         * 操縦者：F1
