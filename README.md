@@ -82,6 +82,8 @@
     * **カメラ位置**
         * FPVモード：F4
         * 操縦者：F1
+    * **AirPort**
+        * [uav_license_test_square_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_square_2nd_ap.29950/)：高度変化を伴うスクエア飛行･ピルエットホバリング用
 
 ### この項目は編集中です
 
