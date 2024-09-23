@@ -76,7 +76,7 @@
         1. 短期的な乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[100％]
         1. 不規則：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
         1. 長期的な乱気流 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[100％]
-        1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[任意]
+        1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130deg] (初期値)
         1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0→4MPH]
         1. 設定保存：[Esc]-[Free Play]-[Save Scenario]-["Save As Default Scenario"→"20240903T0159"]
     * **カメラ位置**
