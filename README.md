@@ -78,7 +78,15 @@
             * Tricopter 900 (トライコプター:３ローター)
             * X8 Quadcopter 1260 (クワッドコプター:４ローター×２)
         * ATTIモード可能機体 (Mode設定が必要：[参考動画](https://www.youtube.com/watch?v=Igc1PsXv0pc))
-            * XXX
+            * Heli-Max FORM500
+            * Hubsan X4 Pro
+            * Hubsan X4 Pro (Prop Guards)
+            * Scorpion Sky Strider 280 (10 Degree Arm Angle)
+            * Scorpion Sky Strider 280 (5 Degree Arm Angle)
+            * Tempest 250
+            * Tempest 250 (Angled Camera)
+            * Tempest 280
+            * Tricopter 900 (Manual Modes)
     * **風＆乱気流**
         1. 突風時の風速の増加割合 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[30％]
         1. 短期的な乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[100％]
