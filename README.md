@@ -41,7 +41,6 @@
         * [RealFlght Evolutionをプレイ]：平面ディスプレイで実行（各種設定時）
         * [Oculus VRモードでRealFlight Evolutionを起動]：360°VR空間で実行
 
-
 1. 各種設定
     * **旧メニュー表示**：[shift]+[~]（Console表示）→ "showlegacymenu"と入力
     * **視点固定**：[Z]（Autozoom → Manual → Keep Ground in View）
@@ -78,6 +77,8 @@
             * Quadcopter X (クワッドコプター:４ローター)
             * Tricopter 900 (トライコプター:３ローター)
             * X8 Quadcopter 1260 (クワッドコプター:４ローター×２)
+        * ATTIモード可能機体 (Mode設定が必要：[参考動画](https://www.youtube.com/watch?v=Igc1PsXv0pc))
+            * XXX
     * **風＆乱気流**
         1. 突風時の風速の増加割合 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[30％]
         1. 短期的な乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[100％]
