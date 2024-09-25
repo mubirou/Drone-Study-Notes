@@ -67,11 +67,10 @@
         1. [Esc]-[Free Play]-[Airport] から上記のいずれかを [Select]
     * **ATTIモード**
         * [Esc]-[Settings]-[User Interface]-[Gadgets]-[Flight Modes]-[Flight Modes Gadget Enabled]-[Enabled]-[ON]：フライトモードの表示
-        * プロポ（T16IZS）の設定
+        * プロポ（T16IZS）の設定 ([参考動画](https://www.youtube.com/watch?v=5zdZzGGeB9w))
             1. [リンケージメニュー]-[ファンクションネーム]-[予備1]-[名称変更] で"フライトモード"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 ジャイロ]-[2/2] にある"フライトモード"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 フライモード]-[--] を選択し [SA] を割当てる
-            * 参考動画：[16IZ初期設定➀](https://www.youtube.com/watch?v=5zdZzGGeB9w)
         * ATTIモード可能機体
             * Explorer 580 (自作機風:４ローター)
             * Hexacopter 780 (ヘキサコプター:６ローター)
