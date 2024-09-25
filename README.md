@@ -67,7 +67,7 @@
         1. [Esc]-[Free Play]-[Airport] から上記のいずれかを [Select]
     * **ATTIモード**
         * [Esc]-[Settings]-[User Interface]-[Gadgets]-[Flight Modes]-[Flight Modes Gadget Enabled]-[Enabled]-[ON]：フライトモードの表示
-        * プロポ（T16IZS）の設定（[参考動画](https://www.youtube.com/watch?v=5zdZzGGeB9w)）
+        * プロポ（T16IZS）の設定
             1. [リンケージメニュー]-[ファンクションネーム]-[予備1]-[名称変更] で"予備1"→"MODE"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 ジャイロ]-[2/2]-[MODE] で "ジャイロ"→"MODE"に変更
             1. 引き続き [MODE]-[コントロール]-[--]-[SA]
