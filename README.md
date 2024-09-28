@@ -110,7 +110,7 @@
 
 * ホバリング練習
     * 各種設定
-        * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle) レーシングドローン
+        * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle)
          * 飛行モード：Altitude Hold (ATTIモード)
         * 会場：Athletic Club (多目的体育館)
         * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
