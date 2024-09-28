@@ -110,7 +110,7 @@
 
 * ホバリング練習
     * 各種設定
-        * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) 5度 (レーシングドローン)
+        * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) 5度 (FPVレース用)
          * 飛行モード：Altitude Hold (ATTIモード)
         * 会場：Athletic Club (多目的体育館)
         * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
