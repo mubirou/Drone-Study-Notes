@@ -109,14 +109,16 @@
 ### この項目は編集中です
 
 * ホバリング練習
-    * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle) レーシングドローン
-    * 飛行モード：Altitude Hold (ATTIモード)
-    * 会場：Athletic Club (多目的体育館)
-    * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
-    * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
-    * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
-    * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
-    * 風速：1 MPH
+    * 各種設定
+        * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle) レーシングドローン
+         * 飛行モード：Altitude Hold (ATTIモード)
+        * 会場：Athletic Club (多目的体育館)
+        * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
+        * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
+        * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
+        * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
+        * 風速：1 MPH
+    * 練習方法
 
 © 2024 夢寐郎  
     
