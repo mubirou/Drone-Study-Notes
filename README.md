@@ -111,6 +111,9 @@
 * ホバリング練習
     * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle) … レーシングドローン
     * 飛行モード：Altitude Hold … ATTIモード
+    * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
+    * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
+    * 
 
 © 2024 夢寐郎  
     
