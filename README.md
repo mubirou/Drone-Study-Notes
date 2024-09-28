@@ -110,6 +110,7 @@
 
 * ホバリング練習
     * 各種設定
+        * [[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby>] 280](https://www.polaris-export.com/news/tech/20150912.html)
         * 機体：[Scorpion Sky Strider 280](https://www.polaris-export.com/news/tech/20150912.html) 5度 (レーシングドローン)
          * 飛行モード：Altitude Hold (ATTIモード)
         * 会場：Athletic Club (多目的体育館)
