@@ -108,14 +108,9 @@
 
 ### この項目は編集中です
 
-1. XXX
-
-    * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
-    * [リンケージメニュー]-[トレーナー]-[動作] を [INH] → [ACT] に変更 👈たぶん不要
-    * [Esc]-[Free Play]-[Pilot View]-[Pilot Position]-["Runway Center"→"Helipad"]
-
-
-
+* ホバリング練習
+    * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle) … レーシングドローン
+    * 飛行モード：Altitude Hold … ATTIモード
 
 © 2024 夢寐郎  
     
