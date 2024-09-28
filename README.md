@@ -96,6 +96,15 @@
         1. 長期的な乱気流 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[100％]
         1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130deg] ("Home"or"End"キーで調整)
         1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0MPH] ("PgUp"or"PgOn"キーで調整)
+            * 1 MPH ≒ 0.45 m/s
+            * 2 MPH ≒ 0.89 m/s
+            * 3 MPH ≒ 1.34 m/s
+            * 4 MPH ≒ 1.79 m/s
+            * 5 MPH ≒ 2.24 m/s
+            * 6 MPH ≒ 2.68 m/s
+            * 7 MPH ≒ 3.13 m/s
+            * 8 MPH ≒ 3.60 m/s
+            * 9 MPH ≒ 4.02 m/s
         1. 設定保存：[Esc]-[Free Play]-[Save Scenario]-["Save As Default Scenario"→任意]
     * **カメラ位置**
         * FPVモード：F4
@@ -110,14 +119,14 @@
 
 * ホバリング特訓
     * 各種設定
-        * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) 10度 (FPVレース専用)
+        * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) 5度 (FPVレース専用)
          * 飛行モード：Altitude Hold (ATTIモード)
         * 会場：Athletic Club (多目的体育館)
         * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
         * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
         * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
         * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
-        * 風速：2 MPH
+        * 風速：10 MPH ≒ 4.5 m/s (0～9m/s)
     * 練習方法
         * コート中央 (7.5m先) の円内でホバリング
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
