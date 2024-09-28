@@ -92,7 +92,7 @@
     * **風＆乱気流**
         1. 突風時の風速の増加割合 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[100％]
         1. 短期的な乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[200％]
-        1. 不規則：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
+        1. 不規則性：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
         1. 長期的な乱気流 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[100％]
         1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130deg] ("Home"or"End"キーで調整)
         1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0MPH] ("PgUp"or"PgOn"キーで調整)
@@ -109,11 +109,14 @@
 ### この項目は編集中です
 
 * ホバリング練習
-    * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle) … レーシングドローン
-    * 飛行モード：Altitude Hold … ATTIモード
+    * 機体：Scorpion Sky Strider 280 (5 Degree Arm Angle) レーシングドローン
+    * 飛行モード：Altitude Hold (ATTIモード)
+    * 会場：Athletic Club (多目的体育館)
     * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
     * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
-    * 
+    * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
+    * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
+    * 風速：1 MPH
 
 © 2024 夢寐郎  
     
