@@ -70,6 +70,8 @@
             1. [リンケージメニュー]-[ファンクションネーム]-[予備1]-[名称変更] で"フライトモード"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 ジャイロ]-[2/2] にある"フライトモード"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 フライモード]-[--] を選択し [SA] を割当てる
+        * Real Flight の設定
+            1. [Simulation]-[Select Controller]
         * ATTIモード可能機体
             * Explorer 580 (自作機風:４ローター)
             * Hexacopter 780 (ヘキサコプター:６ローター)
@@ -81,15 +83,15 @@
             * Heli-Max FORM500
             * Hubsan X4 Pro
             * Hubsan X4 Pro (Prop Guards)
-            * Scorpion Sky Strider 280 (10 Degree Arm Angle)
-            * Scorpion Sky Strider 280 (5 Degree Arm Angle)
+            * Scorpion Sky Strider 280 (10 Degree Arm Angle)：レーシングドローン
+            * Scorpion Sky Strider 280 (5 Degree Arm Angle)：レーシングドローン
             * Tempest 250
             * Tempest 250 (Angled Camera)
             * Tempest 280
             * Tricopter 900 (Manual Modes)
     * **風＆乱気流**
-        1. 突風時の風速の増加割合 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[30％]
-        1. 短期的な乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[100％]
+        1. 突風時の風速の増加割合 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>]-[100％]
+        1. 短期的な乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[200％]
         1. 不規則：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
         1. 長期的な乱気流 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[100％]
         1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130deg] ("Home"or"End"キーで調整)
@@ -106,13 +108,14 @@
 
 ### この項目は編集中です
 
-1. 活用方法
+1. XXX
 
     * [Esc]-[Settings]-[Wind]-[Wind Variation]-[20%]
     * [リンケージメニュー]-[トレーナー]-[動作] を [INH] → [ACT] に変更 👈たぶん不要
-
-
     * [Esc]-[Free Play]-[Pilot View]-[Pilot Position]-["Runway Center"→"Helipad"]
+
+
+
 
 © 2024 夢寐郎  
     
