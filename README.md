@@ -127,7 +127,7 @@
         * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
         * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
         * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
-        * 風速：10 MPH ≒ 4.5 m/s (0～9m/s)
+        * 風速：10 MPH ≒ 4.5 m/s (約0～9m/s)
     * 練習方法
         * コート中央 (7.5m先) の円内でホバリング
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
@@ -141,7 +141,7 @@
         * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
         * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
         * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
-        * 風速：1 MPH ≒ 0.45 m/s (0～0.9m/s)
+        * 風速：3 MPH ≒ 1.34 m/s (約0～2.7m/s)
     * 練習方法
         * 機種方向固定で A地点 → B地点 → C地点 → D地点 → E地点 → A地点
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
