@@ -122,7 +122,7 @@
         * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) (FPVレース専用)  
         アングルアームクランプ5度
          * 飛行モード：Altitude Hold (ATTIモード)
-        * 会場：[uav_license_test_eitght_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_eight_2nd_ap.29951/)：国家試験 (8の字飛行)
+        * 会場：[uav_license_test_eitght_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_eight_2nd_ap.29951/)：国家試験 (８の字飛行)
         * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
         * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
         * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
@@ -146,6 +146,17 @@
         * 6m先にある経路 (赤色破線13×5m) を飛行
         * 機種方向固定で A地点 → B地点 → C地点 → D地点 → E地点 → A地点
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
+
+* ８の字飛行 (機種方向固定) 訓練
+    * 各種設定
+        * 機体：[<ruby>Hubsan<rt>ハブサン</rt></ruby> X4 Pro](https://hitecrcd.co.jp/products/x4pro/) ([Prop Guards](https://hitecrcd.co.jp/products/h109s-48/))
+        * 飛行モード：Altitude Hold (ATTIモード)
+        * 会場：[uav_license_test_eitght_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_eight_2nd_ap.29951/)：国家試験 (８の字飛行)
+        * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
+        * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
+        * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
+        * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
+        * 風速：〇〇 MPH
 
 © 2024 夢寐郎  
     
