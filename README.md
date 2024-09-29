@@ -122,7 +122,7 @@
         * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) (FPVレース専用)  
         アングルアームクランプ5度
          * 飛行モード：Altitude Hold (ATTIモード)
-        * 会場：Athletic Club (多目的体育館)
+        * 会場：[uav_license_test_eitght_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_eight_2nd_ap.29951/)：国家試験 (8の字飛行)
         * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
         * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
         * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
