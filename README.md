@@ -123,7 +123,7 @@
     * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
     * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
 
-1. ホバリング訓練
+#### ホバリング訓練
     * 各種設定
         * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) (FPVレース専用)  
         アングルアームクランプ5度
@@ -134,7 +134,7 @@
         * コート中央 (6.5m先) の円内 (半径1m) でホバリング
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
 
-2. スクエア飛行 (機種方向固定) 訓練
+#### スクエア飛行 (機種方向固定) 訓練
     * 各種設定
         * 機体：[<ruby>Hubsan<rt>ハブサン</rt></ruby> X4 Pro](https://hitecrcd.co.jp/products/x4pro/) ([Prop Guards](https://hitecrcd.co.jp/products/h109s-48/))
         * 飛行モード：Altitude Hold (ATTIモード)
@@ -145,7 +145,7 @@
         * 機種方向固定で A地点 → B地点 → C地点 → D地点 → E地点 → A地点
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
 
-3. ８の字飛行 (機種方向固定) 訓練
+#### ８の字飛行 (機種方向固定) 訓練
     * 各種設定
         * 機体：[<ruby>Hubsan<rt>ハブサン</rt></ruby> X4 Pro](https://hitecrcd.co.jp/products/x4pro/) ([Prop Guards](https://hitecrcd.co.jp/products/h109s-48/))
         * 飛行モード：Altitude Hold (ATTIモード)
