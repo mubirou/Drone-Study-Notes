@@ -141,7 +141,7 @@
         * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
         * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
         * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
-        * 風速：3 MPH ≒ 1.34 m/s (約0～2.7m/s)
+        * 風速：0～3 MPH ≒ 1.34 m/s (約0～2.7m/s)
     * 練習方法
         * 6m先にある経路 (赤色破線13×5m) を飛行
         * 機種方向固定で A地点 → B地点 → C地点 → D地点 → E地点 → A地点
@@ -156,7 +156,6 @@
         * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
         * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
         * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
-        * 風速：〇〇 MPH
+        * 風速：0～3 MPH ≒ 1.34 m/s (約0～2.7m/s)
 
 © 2024 夢寐郎  
-    
