@@ -141,7 +141,7 @@
         * 会場：[uav_license_test_square_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_square_2nd_ap.29950/)：国家試験 (スクエア飛行)
         * 風速：0～3 MPH ≒ 1.34 m/s (約0～2.7m/s)
     * 練習方法
-        * 6m先にある経路 (赤色破線13×5m) を飛行
+        * 6m先からある経路 (赤色破線13×5m) を飛行
         * 機種方向固定で A地点 → B地点 → C地点 → D地点 → E地点 → A地点
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
 
@@ -151,5 +151,8 @@
         * 飛行モード：Altitude Hold (ATTIモード)
         * 会場：[uav_license_test_eitght_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_eight_2nd_ap.29951/)：国家試験 (８の字飛行)
         * 風速：0～3 MPH ≒ 1.34 m/s (約0～2.7m/s)
+    * 練習方法
+        * 4m先からある経路 (直径5m×2個の赤色破線) を飛行
+        * 〇〇
 
 © 2024 夢寐郎  
