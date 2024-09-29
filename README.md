@@ -117,7 +117,7 @@
 
 ### この項目は編集中です
 
-* ホバリング特訓
+* ホバリング訓練
     * 各種設定
         * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) (FPVレース専用)  
         アングルアームクランプ5度
@@ -131,6 +131,10 @@
     * 練習方法
         * コート中央 (7.5m先) の円内でホバリング
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
+
+* 機種方向固定スクエア飛行訓練
+    * 各種設定
+        * 機体：[<ruby>Hubsan<rt>ハブサン</rt></ruby> X4 Pro](https://hitecrcd.co.jp/products/x4pro/) ([Prop Guards](https://hitecrcd.co.jp/products/h109s-48/))
 
 © 2024 夢寐郎  
     
