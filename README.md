@@ -115,9 +115,7 @@
         * Practice Feild：屋内[アメフト](https://lawyernishimura.com/index.php?QBlog-20171025-1)用 (約110x49m)
         * Athletic Club：多目的体育館 ([バスケ](https://spojoba.com/articles/794)･[バレーボール](https://www.jti.co.jp/sports/thunders/game/guide/03/index.html)･[バドミントン](https://badminton-rule.com/sup1.html)用)
 
-### この項目は編集中です
-
-#### 練習方法
+### 練習方法
 
 * 共通設定
     * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
