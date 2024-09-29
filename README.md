@@ -136,7 +136,7 @@
     * 各種設定
         * 機体：[<ruby>Hubsan<rt>ハブサン</rt></ruby> X4 Pro](https://hitecrcd.co.jp/products/x4pro/) ([Prop Guards](https://hitecrcd.co.jp/products/h109s-48/))
         * 飛行モード：Altitude Hold (ATTIモード)
-        * 会場：[uav_license_test_square_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_square_2nd_ap.29950/)：国家試験のスクエア飛行の飛行航路
+        * 会場：[uav_license_test_square_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_square_2nd_ap.29950/)：国家試験 (スクエア飛行)
 
 
 © 2024 夢寐郎  
