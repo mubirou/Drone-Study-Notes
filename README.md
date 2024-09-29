@@ -132,7 +132,7 @@
         * コート中央 (6.5m先) の円内 (半径1m) でホバリング
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
 
-* 機種方向固定スクエア飛行訓練
+* スクエア飛行 (機種方向固定) 訓練
     * 各種設定
         * 機体：[<ruby>Hubsan<rt>ハブサン</rt></ruby> X4 Pro](https://hitecrcd.co.jp/products/x4pro/) ([Prop Guards](https://hitecrcd.co.jp/products/h109s-48/))
         * 飛行モード：Altitude Hold (ATTIモード)
