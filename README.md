@@ -137,7 +137,14 @@
         * 機体：[<ruby>Hubsan<rt>ハブサン</rt></ruby> X4 Pro](https://hitecrcd.co.jp/products/x4pro/) ([Prop Guards](https://hitecrcd.co.jp/products/h109s-48/))
         * 飛行モード：Altitude Hold (ATTIモード)
         * 会場：[uav_license_test_square_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_square_2nd_ap.29950/)：国家試験 (スクエア飛行)
-
+         * [<ruby>Wind Gust<rt>ウインド･ガスト</rt></ruby>] (突風時の風速の増加割合)：100％
+        * [<ruby>Turbulence<rt>タービュランス</rt></ruby>] (短期的な乱気流)：200％
+        * [<ruby>Thermals<rt>サーマルズ</rt></ruby>] (不規則性)：Dynamic
+        * [<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>] (長期的な乱気流)：100％
+        * 風速：1 MPH ≒ 0.45 m/s (0～0.9m/s)
+    * 練習方法
+        * 飛行経路の内側を A地点 → B地点 → C地点 → D地点 → E地点 → A地点 へ飛行
+        * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
 
 © 2024 夢寐郎  
     
