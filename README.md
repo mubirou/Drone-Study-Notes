@@ -70,8 +70,9 @@
             1. [リンケージメニュー]-[ファンクションネーム]-[予備1]-[名称変更] で"フライトモード"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 ジャイロ]-[2/2] にある"フライトモード"に変更
             1. [リンケージメニュー]-[ファンクション]-[5 フライモード]-[--] を選択し [SA] を割当てる
-        * Real Flight の設定
-            1. [Simulation]-[Select Controller]
+        * Real Flight の Select Controller 設定
+            * [Simulation]-[Select Controller]
+            * [Esc]-[Settings]-[Controller]-[Configure Controller] で [Select Contoler]
         * ATTIモード可能機体
             * Explorer 580 (自作機風:４ローター)
             * Hexacopter 780 (ヘキサコプター:６ローター)
@@ -155,7 +156,11 @@
         * 4m先からある経路 (直径5m×2個の赤色破線) を飛行
         * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
 
-1. ドローン流 "白バイＵターン"
+1. "白バイＵターン"
+    * 機体
+        * 大型機：X8 Quadcopter 1260
+        * 中型機：Quadcopter X
+        * 小型機：Tempest 280
     * 操作方法
         1. 任意の地点でホバリング
         1. 左スティックで左右どちら側にＵターンするか決める  
