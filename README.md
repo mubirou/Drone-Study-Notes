@@ -72,7 +72,7 @@
             1. [リンケージメニュー]-[ファンクション]-[5 フライモード]-[--] を選択し [SA] を割当てる
         * Real Flight の Select Controller 設定
             * [Simulation]-[Select Controller]
-            * [Esc]-[Settings]-[Controller]-[Configure Controller] で [Select Contoler]
+            * [Esc]-[Settings]-[Controller]-[Configure Controller]
         * ATTIモード可能機体
             * Explorer 580 (自作機風:４ローター)
             * Hexacopter 780 (ヘキサコプター:６ローター)
