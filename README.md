@@ -130,10 +130,10 @@
         アングルアームクランプ5度
          * 飛行モード：Altitude Hold (ATTIモード)
         * 会場：[uav_license_test_eitght_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_eight_2nd_ap.29951/)：国家試験 (８の字飛行)
-        * 風速：10 MPH ≒ 4.5 m/s (約0～9m/s)
+        * 風速：5 MPH ≒ 2.24 m/s (約0～4.5m/s)
     * 練習方法
         * コート中央 (6.5m先) の円内 (半径1m) でホバリング
-        * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半
+        * ケツホバ → 1時半 → 3時 → 4時半 → 6時 → 7時半 → 9時 → 10時半 (各15秒)
 
 1. スクエア飛行 (機種方向固定) 訓練
     * 各種設定
@@ -170,5 +170,11 @@
         1. ラダー (微調整) ＆エルロン (最大) 同時に入れる
         1. 進行方向に向いたらエレベーターを入れる
         * 機体の大きさにより操作タイミングを調整する
+
+1. 目視外飛行
+    * 会場候補
+        * Air Race Stadium
+        * Joe's Garage
+        * Superstition Airpark
 
 © 2024 夢寐郎  
