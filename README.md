@@ -96,16 +96,16 @@
         1. 不規則性：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
         1. 長期的な乱気流 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[100％]
         1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130deg] ("Home"or"End"キーで調整)
-        1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0MPH] ("PgUp"or"PgOn"キーで調整)
-            * 1 MPH ≒ 0.45 m/s
-            * 2 MPH ≒ 0.89 m/s
-            * 3 MPH ≒ 1.34 m/s
-            * 4 MPH ≒ 1.79 m/s
-            * 5 MPH ≒ 2.24 m/s
-            * 6 MPH ≒ 2.68 m/s
-            * 7 MPH ≒ 3.13 m/s
-            * 8 MPH ≒ 3.60 m/s
-            * 9 MPH ≒ 4.02 m/s
+        1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0KPH] ("PgUp"or"PgOn"キーで調整)
+            * 風速 1 m/s =  3.6 km/h
+            * 風速 2 m/s =  7.2 km/h
+            * 風速 3 m/s = 10.8 km/h
+            * 風速 4 m/s = 14.4 km/h
+            * 風速 5 m/s = 18.0 km/h
+            * 風速 6 m/s = 21.6 km/h
+            * 風速 7 m/s = 25.2 km/h
+            * 風速 8 m/s = 28.8 km/h
+            * 風速 9 m/s = 32.4 km/h
         1. 設定保存：[Esc]-[Free Play]-[Save Scenario]-["Save As Default Scenario"→任意]
     * **カメラ位置**
         * FPVモード：F4
