@@ -80,7 +80,7 @@
             * Quadcopter X (クワッドコプター:４ローター)
             * Tricopter 900 (トライコプター:３ローター)
             * X8 Quadcopter 1260 (クワッドコプター:４ローター×２)
-        * ATTIモード可能機体 (Mode設定が必要：[参考動画](https://www.youtube.com/watch?v=Igc1PsXv0pc))
+        * ATTIモード可能機体 (⚠Mode設定が必要：[参考動画](https://www.youtube.com/watch?v=Igc1PsXv0pc))
             * Heli-Max FORM500
             * Hubsan X4 Pro
             * Hubsan X4 Pro (Prop Guards)
@@ -128,7 +128,7 @@
     * 各種設定
         * 機体：[<ruby>Scorpion Sky Strider<rt>スコーピオン･スカイ･ストライダー</rt></ruby> 280](https://www.polaris-export.com/news/tech/20150912.html) (FPVレース専用)  
         アングルアームクランプ5度
-         * 飛行モード：Altitude Hold (ATTIモード)
+         * 飛行モード：⚠Altitude Hold (ATTIモード)
         * 会場：[uav_license_test_eitght_2nd_AP](https://forums.realflight.com/index.php?resources/uav_license_test_eight_2nd_ap.29951/)：国家試験 (８の字飛行)
         * 風速：5 MPH ≒ 2.24 m/s (約0～4.5m/s)
     * 練習方法
