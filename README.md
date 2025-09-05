@@ -172,23 +172,34 @@
         1. 進行方向に向いたらエレベーターを入れる
         * 機体の大きさにより操作タイミングを調整する
 
-1. 目視外飛行
-    * 会場候補
-        * Air Race Stadium
-        * Joe's Garage
-        * Superstition Airpark
+1. FPV飛行可能エアポート（F2 or F3）
+    * Air Race Desert
+    * Air Race Stadium（目視外飛行練習向き）
+    * Aircraft Carrier
+    * Alpine Lake
+    * Apocalypse
+    * Area 81 Obstacle Course
+    * Bayou
+    * Boneyard
+    * Buena Vista
+    * Carnival（夜間）
+    * Castle
+    * City Park
+    * City Park（Night）
+    * Construction Site
+    * DS Ridgeline
+    * FPV Racing Site
+    * Joe's Garage（目視外飛行練習向き）
+    * Shipyard Obstacle Course
+    * Soccer Field
 
-更新日：2025年04月09日  
+1. Acroモード飛行可能機体
+    * Scorpion Sky Strider 280 (10 Degree Arm Angle)
+    * Scorpion Sky Strider 280 (5 Degree Arm Angle)
+    * Tempest 250
+    * Tempest 250 (Angled Camera)
+    * Tempest 280
 
-
-
-
-### 口述試験（飛行前点検）
-
-1. 飛行空域およびその他の確認
-    1. 飛行空域およびその周辺の状況に問題はないか？  
-        「**飛行空域その周辺問題ありません**」
-    1. 航空法等の違反はありませんか？
-
+更新日：2025年09月05日  
 
 © 2024-PRESENT 夢寐郎  
