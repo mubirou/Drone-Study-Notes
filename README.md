@@ -95,7 +95,7 @@
         1. 短期的な乱気流 (0～200％)：[Esc]-[Settings]-[Wind]-[<ruby>Turbulence<rt>タービュランス</rt></ruby>]-[200％]
         1. 不規則性：[Esc]-[Settings]-[Wind]-[<ruby>Thermals<rt>サーマルズ</rt></ruby>]-[Simple→Dynamic]
         1. 長期的な乱気流 (0～100％)：[Esc]-[Settings]-[Wind]-[<ruby>Wind Variation<rt>ウインド･バレーション</rt></ruby>]-[100％]
-        1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[130deg] ("Home"or"End"キーで調整)
+        1. 風向きの初期値：[Esc]-[Free Play]-[Environment]-[Wind Direction]-[0deg] ("Home"or"End"キーで調整)
         1. 風速：[Esc]-[Free Play]-[Environment]-[Wind Speed]-[0KPH] ("PgUp"or"PgOn"キーで調整)
             * 風速 1 m/s =  3.6 km/h
             * 風速 2 m/s =  7.2 km/h
@@ -188,7 +188,7 @@
 1. 飛行空域およびその他の確認
     1. 飛行空域およびその周辺の状況に問題はないか？  
         「**飛行空域その周辺問題ありません**」
-    1. 
+    1. 航空法等の違反はありませんか？
 
 
 © 2024-PRESENT 夢寐郎  
